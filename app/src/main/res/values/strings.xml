@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RestoDwi</string>
+    <string name="app_description">Aplikasi restoran adalah perangkat lunak yang di rancang untuk membuat pengelolaan oprasional restoran. Aplikasi ini digunakan oleh pemilik restoran, manajer restoran, pelayanan, dan karyawan lainnya untuk melakukan berbagai tugas, termasuk pengelolaan pesanan, inventaris, stok, keuangan, pelanggan, dan analisis data. Aplikasi restoran bertujuan untuk meningkatkan efisiensi operasional, mengoptimalkan pengalaman pelanggan, dan membantu pengelola restoran dalam pengambilan keputusan yang lebih baik. </string>
+
+    <string name="nama">Anugrah Dwi Wicaksono</string>
+    <string name="nim">10120073</string>
+    <string name="kelas">IF2</string>
+    <string name="email">anugrahdwi98@gmail.com</string>
+
+    <string name="google_maps_api_key">AIzaSyAXt_Y6fp4tWobUbmjRYb9PrGxqeCcuKjI</string>
+</resources>
